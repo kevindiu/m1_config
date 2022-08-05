@@ -17,6 +17,10 @@ brew tap dwarvesf/homebrew-tap
 brew install --cask vimmotion
 ```
 
+```
+brew install --cask maccy
+```
+
 # Optional
 
 ```
