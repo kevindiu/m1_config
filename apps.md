@@ -1,11 +1,9 @@
 # My app list
 
 ```
-brew install --cask stats iterm2 homebrew/cask-versions/adguard-nightly hiddenbar itsycal
-
-brew install --cask oversight
-
 brew install lulu
+
+brew install --cask stats iterm2 homebrew/cask-versions/adguard-nightly hiddenbar itsycal oversight
 
 brew install lima
 
