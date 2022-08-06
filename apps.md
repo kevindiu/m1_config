@@ -5,6 +5,8 @@ brew install lulu
 
 brew install --cask stats iterm2 homebrew/cask-versions/adguard-nightly hiddenbar itsycal oversight
 
+brew install --cask alt-tab
+
 brew install lima
 
 ```
