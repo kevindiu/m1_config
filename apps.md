@@ -1,7 +1,7 @@
 # My app list
 
 ```
-brew install --cask stats iterm2 adguard-nightly hiddenbar itsycal
+brew install --cask stats iterm2 homebrew/cask-versions/adguard-nightly hiddenbar itsycal
 
 brew install --cask oversight
 
