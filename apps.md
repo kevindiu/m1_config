@@ -21,6 +21,13 @@ brew install --cask vimmotion
 brew install --cask maccy
 ```
 
+```
+brew install --cask zoom
+
+brew install --cask signal
+
+```
+
 # Optional
 
 ```
