@@ -27,6 +27,8 @@ brew install --cask zoom
 brew install --cask signal
 
 brew install --cask discord
+
+brew install --cask slack
 ```
 
 # Optional
