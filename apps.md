@@ -12,6 +12,8 @@ brew install lima
 ```
 
 ```
+brew install hammerspoon --cask
+
 brew tap dwarvesf/homebrew-tap
 
 brew install --cask vimmotion
@@ -38,5 +40,4 @@ brew install --cask cheatsheet
 
 brew install --cask customshortcuts
 
-brew install --cask modmove rectangle
 ```
