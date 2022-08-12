@@ -40,4 +40,7 @@ brew install --cask cheatsheet
 
 brew install --cask customshortcuts
 
+brew install --cask marta
+
+
 ```
